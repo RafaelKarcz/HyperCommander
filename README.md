@@ -43,4 +43,4 @@ This project does not have a license, yet.
 ### Support
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
 
-Enjoy using Hyper Commander for your daily command-line navigation and operations!
+Have fun using the Hyper Commander for your daily command-line navigation and operations!
