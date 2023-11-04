@@ -38,7 +38,7 @@ Follow the on-screen prompts to navigate through the menu options:
 Contributions to Hyper Commander are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project does not have a license, yet.
 
 ### Support
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
