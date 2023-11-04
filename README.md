@@ -1,6 +1,6 @@
 # HyperCommander
 
-Hyper Commander is an interactive Bash utility that simplifies file and system operations through a user-friendly command-line interface. It's designed to provide a menu-driven approach to common tasks, making it accessible for users of all skill levels.
+Hyper Commander is an interactive Bash utility that simplifies file and system operations through a user-friendly command-line interface. It is designed to provide a menu-driven approach to common tasks, making it accessible for users of all skill levels.
 
 ## Features
 - View basic Operating System information.
