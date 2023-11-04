@@ -19,4 +19,4 @@ jobs:
         git config --global user.email 'rafael.karcz@gmail.com'
         git add .
         git commit -m "Automated commit for hyper_commander.sh changes" || echo "No changes to commit"
-        git push --quiet https://${{ secrets.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 }}@github.com/RafaelKarcz/HyperCommander.git
+        git push --quiet https://${{ secrets.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 }}@github.com/RafaelKarcz/HyperCommander.git
