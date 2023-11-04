@@ -15,9 +15,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.name '${{ github.actor }}'
-        git config --global user.email '${{ github.actor }}@users.noreply.github.com'
-        git add hyper_commander.sh
+        git config --global user.name 'RafaelKarcz'
+        git config --global user.email 'rafael.karcz@gmail.com'
+        git add .
         git commit -m "Automated commit for hyper_commander.sh changes" || echo "No changes to commit"
-        git push
-
+        git push --quiet https://${{ secrets.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 }}@github.com/RafaelKarcz/HyperCommander.git
