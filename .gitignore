@@ -1,0 +1,24 @@
+# General
+*.log
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Project specific
+ID_card.txt
+cookie.txt
+scores.txt
